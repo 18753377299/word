@@ -19,5 +19,6 @@
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/poi-tl-1.4.2.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/slf4j-api-1.7.12.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/EncryptSecretInfo.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
